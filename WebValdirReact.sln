@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebValdirReact", "WebValdirReact\WebValdirReact.csproj", "{7CF839D4-4D5A-429A-8CE1-35CAA1D8F5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF839D4-4D5A-429A-8CE1-35CAA1D8F5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF839D4-4D5A-429A-8CE1-35CAA1D8F5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF839D4-4D5A-429A-8CE1-35CAA1D8F5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF839D4-4D5A-429A-8CE1-35CAA1D8F5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCC4C0E-3977-4F20-B7A9-7494C4E25771}
+	EndGlobalSection
+EndGlobal
