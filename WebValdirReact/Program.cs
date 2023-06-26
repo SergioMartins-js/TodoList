@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-/*teste*/
+
 namespace WebValdirReact
 {
     public class Program
@@ -24,5 +24,4 @@ namespace WebValdirReact
                 });
     }
 }
-/*teste*/
-/*teste*//*teste*//*teste*/
+
